@@ -1,0 +1,8 @@
+ls         -  Mostrar os arquivos que contem na pasta 'Comandos Git'.
+git init   -  Criar o diretório .git na pasta 'Comandos Git'
+ls -a      -  Mostrar o diretório oculto .git na pasta 'Comandos Git'
+touch      -  Comando para criar arquivos na pasta 'Comandos Git'
+git status -  Verificar meus commits 
+git add    -  Adicionar os arquivos na pasta 'Comandos Git'
+git add *  -  Adiciona todos os arquivos na pasta 'Comandos Git'
+git commit -m "comentario" - Armazenar arquivos no repositório
