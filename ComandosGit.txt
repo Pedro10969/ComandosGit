@@ -6,3 +6,4 @@ git status -  Verificar meus commits
 git add    -  Adicionar os arquivos na pasta 'Comandos Git'
 git add *  -  Adiciona todos os arquivos na pasta 'Comandos Git'
 git commit -m "comentario" - Armazenar arquivos no repositório
+git log --oneline - Comando para verificar o que foi feito 
