@@ -1,0 +1,4 @@
+git log --graph      - Log com gráficos 
+git branch           - Indentifica o ramo principal
+git checkout <+hash> - Rastrear as mudanças e recuperar versão anterior
+git checkout master  - Recupera a ultima versão
