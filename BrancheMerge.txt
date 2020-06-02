@@ -1,0 +1,4 @@
+git checkout -b 'teste' -´Para criar uma nova ramificação
+git branch - Verificar o ramo em que o projeto se encontra
+git checkout +ramo - Navegar entre os ramos 
+git merge +ramo - Unir os ramos 
