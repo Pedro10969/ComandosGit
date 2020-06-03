@@ -1,4 +1,6 @@
-git checkout -b 'teste' -´Para criar uma nova ramificação
-git branch - Verificar o ramo em que o projeto se encontra
-git checkout +ramo - Navegar entre os ramos 
-git merge +ramo - Unir os ramos 
+git checkout -b +ramo - Para criar uma nova ramificação
+git branch            - Verificar o ramo em que o projeto se encontra
+git checkout +ramo    - Navegar entre os ramos 
+git merge +ramo       - Unir os ramos 
+git checkout          - Para voltar a branch anterior
+git branch -d +ramo   - Remover uma brench local
