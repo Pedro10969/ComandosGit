@@ -3,5 +3,6 @@ git branch                      - Verificar o ramo em que o projeto se encontra
 git checkout +ramo              - Navegar entre os ramos 
 git merge +ramo                 - Unir os ramos 
 git checkout -                  - Para voltar a branch anterior
-git branch -d +ramo             - Remover uma brench local
+git branch -D +ramo             - Remover uma brench local
 git push --delete origin branch - Remover a branch remota  
+git resert HEAD~1 --hard        - Remove último commit
